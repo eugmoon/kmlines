@@ -1,2 +1,4 @@
 # kmlines
-Simple Line game technical assessment utilizing WebSockets for client/server communication
+Simple two-player line drawing game utilizing WebSockets for client/server communication
+
+May be viewed in action at https://kmlines.herokuapp.com
